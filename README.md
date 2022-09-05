@@ -9,11 +9,6 @@
 <a href="https://github.com/salmanuridwan">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/salmanuridwan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
 
-<a href="https://github.com/salmanuridwan">
-    <img align="left" alt= "stats card" height="350" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=salmanuridwan&theme=radical">
-</a>
-<br>
-
 
 ### Languages and Tools:
 
