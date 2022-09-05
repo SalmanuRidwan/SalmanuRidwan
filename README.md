@@ -6,10 +6,9 @@
 - 📫 How to reach me:
 
 
-
 <a href="https://github.com/salmanuridwan">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/badge/Linkedin-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
-</a>
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/salmanuridwan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
+
 
 
 
