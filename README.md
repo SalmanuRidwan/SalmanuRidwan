@@ -10,7 +10,10 @@
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/salmanuridwan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
 
 
-
+</br>
+<a href="https://github.com/salmanuridwan">
+    <img align="left" alt= "stats card" height="350" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=salmanuridwan&theme=radical">
+</a>
 
 
 ### Languages and Tools:
@@ -41,10 +44,6 @@
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-</br>
-<a href="https://github.com/salmanuridwan">
-    <img align="left" alt= "stats card" height="350" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=salmanuridwan&theme=radical">
-</a>
 <br>
 
 ### Connect with me:
